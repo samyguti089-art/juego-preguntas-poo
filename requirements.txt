@@ -1,0 +1,5 @@
+# Este proyecto utiliza únicamente bibliotecas estándar incluidas en Python:
+# - tkinter (interfaz gráfica)
+# - abc (clases abstractas)
+# - random (selección aleatoria de preguntas)
+# No se requiere instalar paquetes externos con pip.
