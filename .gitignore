@@ -1,0 +1,9 @@
+# Ignorar archivos temporales de Python y entornos virtuales
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.idea/
+.vscode/
